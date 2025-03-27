@@ -2,6 +2,9 @@
 
 ### Date : March 2023
 
+### Data Analytics Immersive Program 
+### General Assembly Bahrain
+
 ### Team : [Murad Afzal](https://www.linkedin.com/in/muradafzal), [Jamal AlTaitoon](https://www.linkedin.com/in/jamalaltaitoon), [Azeem Afzal](https://www.linkedin.com/in/azeem-afzal-342470112) & [Jubran AlTaitoon](https://www.linkedin.com/in/jubranaltaitoon)
 
 ### Tools: 
